@@ -1,0 +1,14 @@
+git init : inicia el respositorio de ese proyecto 
+
+git status : medice el estado
+
+git add index.html  permite "preagregar un archivo al repositorio"
+
+git commit   :   "guarda todo"  
+
+
+-----/*como congigurar */--------------------
+
+git config --global user.email "sarevalo94119@gmail.com"
+
+
