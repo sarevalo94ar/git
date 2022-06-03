@@ -1,0 +1,3 @@
+cd = dirigirse a carpeta
+
+ls =me dice que archivos tengo dentro de la carpeta actual
