@@ -6,9 +6,23 @@ git add index.html  permite "preagregar un archivo al repositorio"
 
 git commit   :   "guarda todo"  
 
+git commit -m "estemensaje"
+
+git checkout -- index.html  :control +z restauran la vercion anterior del archivo
+
+git log :hystorial de commit para salir "q"  o git --no-pager log
+
+
+
+
+
 
 -----/*como congigurar */--------------------
 
 git config --global user.email "sarevalo94119@gmail.com"
+
+git config --global user.name "sarevalo94119"
+
+git config --list
 
 
